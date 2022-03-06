@@ -2,8 +2,7 @@ import About from "./About/About";
 import Footer from "./Footer/Footer";
 import Header from "./Header/Header";
 import Skills from "./Skills/Skills";
-import TypeGame from "./Testimonial/Testimonial";
-import Testimonial from "./Testimonial/Testimonial";
+import TypeGame from "./TypeGame/TypeGame";
 import Work from "./Work/Work";
 
-export { About, Footer, Header, Skills, Testimonial, Work, TypeGame };
+export { About, Footer, Header, Skills, Work, TypeGame };
