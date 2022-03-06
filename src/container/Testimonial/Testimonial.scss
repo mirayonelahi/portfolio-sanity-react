@@ -1,0 +1,53 @@
+.body-typegame {
+  // background: black;
+  color: #00b800;
+  margin:0;
+  padding: 0;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-family: 'Press Start 2P', cursive;
+  text-align: center;
+}
+
+// .body-typegame{
+//   height: auto ;
+// }
+
+.button-typegame {
+  font-family: 'Press Start 2P', cursive;
+  display: block;
+  margin: 0 auto;
+  border: none;
+  background: #a80020;
+  background: #00b800;
+  padding: 10px 20px;
+  text-transform: uppercase;
+}
+
+button:disabled {
+  cursor: not-allowed;
+}
+h4{
+  margin:10px
+}
+
+.title-typegame {
+  font-size: 20px;
+  text-align:center;
+  margin: 15px;
+}
+
+.textarea-typegame {
+  font-family: 'Press Start 2P', cursive;
+  border: 3px solid black;
+  width: 90%;
+  margin: 0 auto;
+  outline: none;
+  height: 200px;
+  background: #00b800;
+  padding: 10px;
+}
+
+textarea:disabled {
+  background-color: #a5a2a2;
+}
