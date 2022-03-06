@@ -1,2 +1,4 @@
 node_modules
 .env
+./backend_sanity_portfolio/node_modules
+./backend_sanity_portfolio/config
