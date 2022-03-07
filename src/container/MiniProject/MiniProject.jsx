@@ -6,7 +6,7 @@ function MiniProject() {
 
    return (
       <div>
-         <div className='bg-yellow-100  rounded-lg shadow-lg mx-52 my-2  text-2xl font-extrabold text-center'>Mini Projects</div>
+         <div className='bg-yellow-100  rounded-lg shadow-lg mx-52 my-2  text-2xl font-extrabold text-center'>Mini Live Projects</div>
          <TypeGame />
       </div>
    );
