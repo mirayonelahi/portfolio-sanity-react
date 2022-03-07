@@ -7,7 +7,7 @@ import {
   Skills,
   Testimonial,
   Work,
-  TypeGame,
+  MiniProject,
 } from "./container";
 import { Navbar } from "./components";
 import "./App.scss";
@@ -20,7 +20,7 @@ const App = () => (
     <Work />
     <Skills />
     {/* <Testimonial /> */}
-    <TypeGame />
+    <MiniProject />
     <Footer />
   </div>
 );

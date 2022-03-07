@@ -33,10 +33,15 @@ const Header = () => (
         </div>
 
         <div className="tag-cmp app__flex">
-         <div>Love solving business problems by coding. Professional experience working with e-commerce, inventory management.
-
-I am fluent in languages like Javascript ,Typescript and Python.</div>
+        Love solving business problems by coding. Professional experience working with e-commerce, inventory management.
         </div>
+        <div className="tag-cmp app__flex">
+        I am fluent in languages like Javascript,Typescript and Node.
+         </div>
+         <div className="tag-cmp app__flex">
+         Whenever possible, I also apply my passion for developing products with Node.js and Modern Javascript Library and Frameworks  like React.js and Next.js.
+         </div>
+        
       </div>
     </motion.div>
 
