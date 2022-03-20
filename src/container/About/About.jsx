@@ -34,7 +34,9 @@ const About = () => {
             <p className="p-text" style={{ marginTop: 10 }}>{about.description}</p>
           </motion.div>
         ))}
+
       </div>
+
     </>
   );
 };
